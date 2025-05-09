@@ -1,0 +1,15 @@
+[0;1;32m●[0m mybot.service - Telegram Bot
+     Loaded: loaded (journalctl -u mybot.service -n 50 --no-pager]8;;file://ubuntu-4gb-fsn1-3/etc/systemd/system/mybot.service/etc/systemd/system/mybot.service]8;;; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: [0;1;32mactive (running)[0m since Wed 2025-05-07 19:55:31 UTC; 1s ago
+   Main PID: 90477 (python)
+      Tasks: 1 (limit: 4434)
+     Memory: 42.0M (peak: 42.0M)
+        CPU: 1.021s
+     CGroup: /system.slice/mybot.service
+             └─[0;38;5;245m90477 /root/mybot/venv/bin/python bot.py[0m
+
+May 07 19:55:30 ubuntu-4gb-fsn1-3 systemd[1]: [0;1;39m[0;1;31m[0;1;39mmybot.service: Main process exited, code=exited, status=1/FAILURE[0m
+May 07 19:55:30 ubuntu-4gb-fsn1-3 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mmybot.service: Failed with result 'exit-code'.[0m
+May 07 19:55:30 ubuntu-4gb-fsn1-3 systemd[1]: mybot.service: Consumed 2.659s CPU time.
+May 07 19:55:31 ubuntu-4gb-fsn1-3 systemd[1]: mybot.service: Scheduled restart job, restart counter is at 11.
+May 07 19:55:31 ubuntu-4gb-fsn1-3 systemd[1]: Started mybot.service - Telegram Bot.

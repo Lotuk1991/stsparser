@@ -1,0 +1,392 @@
+[
+  {
+    "name": "JSESSIONID",
+    "value": "5B01C2355C5CE9B81BDC1B6515B4313F",
+    "domain": "www.copart.com",
+    "path": "/g2mext",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "g2usersessionid",
+    "value": "308976e6c7bcb58a23793d67b78967e5",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1746666810.610784,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "userLang",
+    "value": "en",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "visid_incap_242093",
+    "value": "aUriJ/C1RGKaAjkm8Z3b+LunG2gAAAAAQUIPAAAAAAA5z89vlZz+yRa9fzdKiHX5",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1778101417.336228,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "nlbi_242093",
+    "value": "h1LGAJAQ6gKg686Fie/jegAAAAAUJAU+rGLxCT5cL10RPnIl",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "incap_ses_1779_242093",
+    "value": "TEv7CNRJ3R1di6ebXUewGLynG2gAAAAAmmbqwDHcsn+3eRpIu3uRkQ==",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "timezone",
+    "value": "Europe%2FWarsaw",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lhnStorageType",
+    "value": "cookie",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1746724392,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnStorageType",
+    "value": "cookie",
+    "domain": ".www.copart.com",
+    "path": "/",
+    "expires": 1746724322,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnRefresh",
+    "value": "635c3c1a-968e-43b1-b249-61b159841b76",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1746983523,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnRefresh",
+    "value": "635c3c1a-968e-43b1-b249-61b159841b76",
+    "domain": ".www.copart.com",
+    "path": "/",
+    "expires": 1746983523,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnJWT",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ2aXNpdG9yIiwiZG9tYWluIjoiIiwiZXhwIjoxNzQ2NzI5Mjg2LCJpYXQiOjE3NDY2NDI4ODYsImlzcyI6eyJhcHAiOiJqc19zZGsiLCJjbGllbnQiOjIyNzI0LCJjbGllbnRfbGV2ZWwiOiJiYXNpYyIsImxobnhfZmVhdHVyZXMiOltdLCJ2aXNpdG9yX3RyYWNraW5nIjp0cnVlfSwianRpIjoiNDRiZjk5Y2MtNmJmZC00ZGU4LTk2YWQtMjhmYjFlYzE4ZmFmIiwicmVzb3VyY2UiOnsiaWQiOiI0NGJmOTljYy02YmZkLTRkZTgtOTZhZC0yOGZiMWVjMThmYWYtMjI3MjQtR3pKcVZwUSIsInR5cGUiOiJFbGl4aXIuTGhuRGIuTW9kZWwuQ29yZS5WaXNpdG9yIn19.RfUYsBc_y5jPlIUtnI0xuQEmi-5IIUOHBZWS9UHyYtA",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1746724324,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnJWT",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ2aXNpdG9yIiwiZG9tYWluIjoiIiwiZXhwIjoxNzQ2NzI5Mjg2LCJpYXQiOjE3NDY2NDI4ODYsImlzcyI6eyJhcHAiOiJqc19zZGsiLCJjbGllbnQiOjIyNzI0LCJjbGllbnRfbGV2ZWwiOiJiYXNpYyIsImxobnhfZmVhdHVyZXMiOltdLCJ2aXNpdG9yX3RyYWNraW5nIjp0cnVlfSwianRpIjoiNDRiZjk5Y2MtNmJmZC00ZGU4LTk2YWQtMjhmYjFlYzE4ZmFmIiwicmVzb3VyY2UiOnsiaWQiOiI0NGJmOTljYy02YmZkLTRkZTgtOTZhZC0yOGZiMWVjMThmYWYtMjI3MjQtR3pKcVZwUSIsInR5cGUiOiJFbGl4aXIuTGhuRGIuTW9kZWwuQ29yZS5WaXNpdG9yIn19.RfUYsBc_y5jPlIUtnI0xuQEmi-5IIUOHBZWS9UHyYtA",
+    "domain": ".www.copart.com",
+    "path": "/",
+    "expires": 1746724324,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnContact",
+    "value": "44bf99cc-6bfd-4de8-96ad-28fb1ec18faf-22724-GzJqVpQ",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1781197993.647034,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lhnContact",
+    "value": "44bf99cc-6bfd-4de8-96ad-28fb1ec18faf-22724-GzJqVpQ",
+    "domain": ".www.copart.com",
+    "path": "/",
+    "expires": 1781197924.588819,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "FCCDCF",
+    "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CQRClkAQRClkAEsACBENBpFoAP_gAEPgACiQINJD7C7FbSFCyD5zaLsAMAhHRsAAQoQAAASBAmABQAKQIAQCgkAYFASgBAACAAAAICRBIQIECAAAAUAAQAAAAAAEAAAAAAAIIAAAgAEAAAAIAAACAIAAEAAIAAAAEAAAmAgAAIIACAAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQNVSD2F2K2kKFkHCmwXYAYBCujYAAhQgAAAkCBMACgAUgQAgFJIAgCIFAAAAAAAAAQEiCQAAQABAAAIACgAAAAAAIAAAAAAAQQAABAAIAAAAAAAAEAQAAIAAQAAAAIAABEhAAAQQAEAAAAAAAQAAA%22%2C%222~70.89.93.108.122.149.184.196.236.259.311.313.314.323.358.415.442.486.494.495.540.574.609.864.981.1029.1048.1051.1095.1097.1126.1205.1276.1301.1365.1415.1449.1514.1570.1577.1598.1651.1716.1735.1753.1765.1870.1878.1889.1958.1960.2072.2253.2299.2373.2415.2506.2526.2531.2568.2571.2575.2624.2677.2778~dv.%22%2C%228E7C442C-EDB5-4581-98E2-2C53AA4B3741%22%5D%5D",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1780333924,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "reese84",
+    "value": "3:U+gP+fEgVfGiCRKyTsQyXg==:4l8Y3TAR4ajr2nXCYj/OxPvCXxUR9Fwdvkndzyx4BiNtVdufcOVxALv66w9iQNutpmOQRookBgaaxDtRiBI9bSbCiq/8Vu2KZ0Ig4IO/Je6LoeNXxuxzWoHF2kzZDw9OFnEyHFRQCztnfq3gQxEivomKzDrXUxag41jsZ4AlQ1hp6r/66DHt1sErRo3gUlUYS64JyoOD7qgv8v6bq/LKbFLAmsZaQITBfmeXbhOCMhcEstMVnPFkGY1agQ8fa+3r2Uwkl1iKap+5hlLPSje1Uavt49porD8wvjjwSQMvlIovv2w2OmZPg07U67aY2MaXdkWT2EJngahuf+hy3TvCf9JlsmxJsWO0uYBXa15/9OuW4rxC4K/gg9vgF/ZBol2mTLUPP2N21Wf+ItG6jsxblBcq8hglsJ91wlVmvaGyhWgY7X51pm4b7Uo24d6aHxSoMv4jSA6Cm1cs+PFvVUD+8N8BZ89ow5q1IBxeaijL8hNtgGXUm3/sZs8xKy9F6+zzs2YHAnp3vRL6bNv7qqZLIuesljqB3+Ai1BoN1q+iM4g=:SDRbm8mfKRgCKfaBgAqaBzn1q+8TaHBM6IeDcYFobdw=",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1749229987.496037,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "usersessionid",
+    "value": "a464acc53ef4b4804afa8864eaa2ad5e",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1746666807.288163,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OAGEO",
+    "value": "PL%7CMazowieckie%7CWarsaw%7C05-077%7C52.22977%7C21.01178%7C%7C022%7C%7CUPC+Polska+Sp.+z+o.o.%7CDSL",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "G2JSESSIONID",
+    "value": "083F70F15116BE6B014AD3FEB313D8EB-n1",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "urc",
+    "value": "mbomf7xj",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1781197966.030835,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dkw9qlkz",
+    "value": "pF9wlxTnsPOnFgqo3bmw",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1754637966.0309,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "anonymousCrmId",
+    "value": "b1d17f11-7e38-4832-a712-9a30794496ec",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1781197966.030997,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "C2BID",
+    "value": "907993",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "userCategory",
+    "value": "LIM",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1781197966.2537,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "g2app.username",
+    "value": "907993",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1778173966,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "g2app.logged-in-member-name",
+    "value": "ANTON%20%20ILIN",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1749229993,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "visid_incap_311205",
+    "value": "xQ7mDjJ3RtmZ/IOcywa5WPmnG2gAAAAAQUIPAAAAAADybPoFu/qiHOuZ37nwb6Iv",
+    "domain": "services.copart.com",
+    "path": "/",
+    "expires": 1778102884.857848,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "nlbi_311205",
+    "value": "JFQDCkjyA09aVyM1O1AiogAAAADstgWS+HnlupruZANgPb7J",
+    "domain": "services.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "incap_ses_1781_311205",
+    "value": "JeRMBO6jlm71wpI5VmK3GPqnG2gAAAAAT06pdMqduDxjvrclwR2wyQ==",
+    "domain": "services.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "nlbi_242093_2147483392",
+    "value": "Rhc/WZRm3jT2SDwoie/jegAAAADzHe15eBe/yshCkjiHtrtN",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "g2app.search-table-rows",
+    "value": "20",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1746724388,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Wed+May+07+2025+19%3A13%3A08+GMT%2B0200+(%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%2C+%D0%BB%D0%B5%D1%82%D0%BD%D0%B5%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&version=202403.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae2b5efd-7fa3-499f-94fd-41a23d9189ef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0002%3A0%2CC0003%3A0%2CC0001%3A1%2CC0004%3A0&AwaitingReconsent=false",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1778173988,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "copartTimezonePref",
+    "value": "%7B%22displayStr%22%3A%22GMT%2B2%22%2C%22offset%22%3A2%2C%22dst%22%3Atrue%2C%22windowsTz%22%3A%22Europe%2FWarsaw%22%7D",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OAID",
+    "value": "b0cb9304ed86a9f44927b4be1bb64235",
+    "domain": "www.copart.com",
+    "path": "/",
+    "expires": 1778174007.28828,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "test_cookie",
+    "value": "CheckForPermission",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1746638910.116521,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__gads",
+    "value": "ID=6fceb48d8bf210c8:T=1746642972:RT=1746642972:S=ALNI_MaDRjPJDc6FUOvxFujKRfJzDB57MQ",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1780338972,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__gpi",
+    "value": "UID=000010a5149f8c65:T=1746642972:RT=1746642972:S=ALNI_Ma4id_6DDirAauLZEU9pYFKaFXqJw",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1780338972,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__eoi",
+    "value": "ID=6bc023938aad9420:T=1746642972:RT=1746642972:S=AA-AfjYYwZ2wAlJl7v_lQQ0PikwC",
+    "domain": ".copart.com",
+    "path": "/",
+    "expires": 1762194972,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
